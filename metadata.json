@@ -1,0 +1,5 @@
+{
+  "name": "AI Text-to-Speech Studio",
+  "description": "An application to generate audio from text using Google's Gemini Text-to-Speech API. You can play and download the generated audio.",
+  "requestFramePermissions": []
+}
